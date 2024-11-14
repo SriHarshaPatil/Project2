@@ -1,2 +1,2 @@
 # Project
- this is a simple file to editg
+ this is a simple file to edit
